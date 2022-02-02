@@ -1,0 +1,27 @@
+######### PROJECT INSTALL #################
+==>composer create-project laravel/laravel example-app
+
+########## laravel ui github ###########
+https://github.com/laravel/ui
+
+command:
+1)php artisan ui bootstrap --auth
+2) npm install && npn run dev
+3)npm run dev
+4)php artisan ui vue
+5) npm install && npn run dev
+if show error then
+
+66
+
+You need to update your vue-loader
+
+npm update vue-loader
+
+And if it is not installed, install it
+
+npm i vue-loader
+
+
+5) npm install && npn run dev
+6) npm run dev
